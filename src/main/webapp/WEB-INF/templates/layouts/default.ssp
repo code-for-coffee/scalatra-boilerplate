@@ -1,0 +1,15 @@
+ <%@ val body:String %>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Scalata Boilerplate</title>
+</head>
+<body>
+
+	<h4>Scalatra Boilerplate</h4>
+	<hr>
+
+	<%= unescape(body) %>
+
+</body>
+</html>

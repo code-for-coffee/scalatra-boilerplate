@@ -1,0 +1,9 @@
+<%@ import val model: org.codeforcoffee.boilerplate.ViewModel %>
+
+<section class='row'>
+	<article>
+	<h1><%= model.header %></h1>
+	<p><%= model.body %></p>
+	<p><em><%= model.payload %></em></p>
+	</article>
+</section>
