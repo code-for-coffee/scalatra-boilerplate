@@ -1,5 +1,12 @@
 # Scalatra Boilerplate #
 
+## Install Dependencies ##
+
+```sh
+brew install giter8
+brew install jetty
+```
+
 ## Build & Run ##
 
 ```sh
